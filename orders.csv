@@ -1,0 +1,101 @@
+order_id,order_date,product,quantity,price,payment_method,status,country,delivery_date
+1,32-13-2022,Mobile,4,249.5,Cheque,Done,India,
+2,18-05-2023,Laptop,,99.99,,Done,Ind,03-06-2022
+3,32-13-2022,Laptop,1,,Credit Card,Done,Ind,
+4,25-04-2025,Mobile,3,ten,Cheque,Refunded,USA,24-02-2024
+5,30-08-2024,Camera,4,249.5,Debit Card,Refunded,Canada,
+6,26-04-2024,Mobile,4,-100,Debit Card,Completed,India,
+7,14-11-2020,,,500,Credit Card,Completed,USA,03-09-2020
+8,09-11-2020,Tablet,10,,Debit Card,Cancelled,UK,06-05-2021
+9,03-04-2021,Camera,five,-100,Debit Card,Pending,USA,19-03-2022
+,06-12-2024,Headphones,,99.99,UPI,Pending,India,16-01-2021
+11,11-12-2023,Mobile,3,249.5,Cheque,Refunded,Ind,16-02-2024
+12,01-09-2022,,5,249.5,UPI,Refunded,USA,
+13,19-01-2023,,3,99.99,Debit Card,Done,UK,13-05-2025
+14,23-04-2023,Mobile,1,ten,UPI,Refunded,UK,25-10-2024
+15,22-05-2023,Tablet,5,,Cheque,Completed,Canada,07-03-2025
+16,15-03-2023,Headphones,10,500,Credit Card,Cancelled,Australia,
+17,24-07-2022,Laptop,10,500,UPI,Pending,Australia,03-02-2025
+18,16-07-2023,Mobile,3,249.5,Credit Card,Done,USA,24-11-2022
+19,03-03-2025,Laptop,5,,Credit Card,Refunded,USA,29-05-2020
+20,10-08-2020,Headphones,,-100,Credit Card,Refunded,Australia,22-12-2024
+21,13-10-2022,Headphones,5,99.99,,Refunded,Australia,04-06-2023
+22,28-11-2024,Headphones,10,99.99,Cheque,Cancelled,USA,25-04-2025
+23,30-10-2020,Tablet,5,500,,Refunded,Australia,
+24,27-01-2022,Tablet,10,99.99,Debit Card,Done,UK,
+25,09-03-2021,Laptop,five,99.99,Cash,Pending,Canada,11-12-2022
+26,14-03-2025,Headphones,,,Cash,Refunded,Ind,
+27,07-02-2020,Camera,1,-100,Credit Card,Done,Australia,25-08-2021
+28,30-12-2021,Mobile,5,,Credit Card,Refunded,UK,
+,24-03-2020,Laptop,4,99.99,UPI,Pending,Ind,02-12-2020
+30,04-06-2024,,10,500,Debit Card,Done,Australia,20-12-2024
+31,16-05-2020,Laptop,,-100,Cheque,Cancelled,USA,24-03-2024
+32,20-12-2023,Mobile,3,ten,Credit Card,Pending,UK,25-10-2020
+33,01-12-2020,Tablet,five,ten,Credit Card,Refunded,India,25-11-2021
+34,16-02-2023,Camera,10,500,Cheque,Completed,Canada,22-04-2025
+35,32-13-2022,Mobile,five,249.5,UPI,Completed,Australia,
+36,04-03-2025,Tablet,10,249.5,Cash,Completed,Ind,16-04-2021
+37,27-04-2025,Laptop,10,99.99,Credit Card,Done,India,08-02-2020
+38,27-04-2025,,5,500,Debit Card,Completed,UK,13-02-2024
+39,23-05-2024,Mobile,10,ten,Debit Card,Completed,Canada,18-07-2020
+40,09-03-2023,,,,UPI,Refunded,UK,10-01-2024
+41,32-13-2022,Laptop,1,-100,UPI,Refunded,Canada,15-12-2020
+42,14-05-2023,Headphones,five,500,Cheque,Done,Australia,13-08-2025
+43,32-13-2022,,5,99.99,Debit Card,Cancelled,Ind,27-12-2021
+,09-07-2022,Tablet,10,500,Debit Card,Completed,UK,28-12-2022
+45,06-04-2025,Tablet,,ten,Cash,Pending,USA,28-10-2024
+,05-12-2020,Tablet,,-100,,Done,Canada,03-06-2025
+47,30-08-2023,Tablet,4,249.5,,Done,Canada,05-08-2021
+48,09-11-2021,,3,99.99,,Done,USA,15-08-2025
+49,09-09-2022,Tablet,4,,UPI,Refunded,UK,25-07-2023
+50,22-03-2023,Tablet,1,ten,Debit Card,Pending,Canada,29-05-2025
+51,29-06-2024,,5,249.5,Credit Card,Cancelled,Australia,06-07-2022
+52,28-09-2021,,1,ten,UPI,Completed,UK,11-02-2024
+53,20-12-2023,Camera,,249.5,UPI,Completed,India,20-11-2020
+54,03-09-2022,Mobile,4,ten,Credit Card,Completed,Australia,26-01-2020
+55,22-08-2022,Headphones,5,,Credit Card,Done,India,
+56,12-05-2022,Headphones,5,-100,Credit Card,Pending,USA,05-09-2023
+57,03-06-2022,Camera,5,ten,Cheque,Cancelled,UK,07-03-2022
+58,28-04-2023,Tablet,5,ten,Debit Card,Refunded,India,27-08-2021
+59,12-09-2023,Headphones,,500,Cheque,Completed,Australia,09-09-2023
+60,05-04-2020,Laptop,10,500,UPI,Done,Canada,19-09-2023
+61,29-12-2023,Mobile,5,ten,Credit Card,Done,Canada,
+62,09-12-2024,Tablet,five,99.99,Cheque,Pending,Canada,12-10-2021
+63,22-11-2022,Tablet,,ten,Cash,Completed,UK,16-08-2022
+64,32-13-2022,,5,ten,,Cancelled,USA,16-02-2025
+65,03-04-2023,Headphones,3,99.99,Cheque,Completed,Ind,
+66,26-05-2023,Tablet,1,500,Debit Card,Pending,Ind,23-12-2021
+67,22-06-2020,,1,,UPI,Refunded,USA,29-06-2021
+,11-07-2020,Mobile,1,,,Refunded,Ind,13-01-2025
+69,22-07-2025,Mobile,,99.99,Cheque,Refunded,Ind,10-07-2025
+70,03-10-2024,Tablet,5,500,Credit Card,Pending,USA,06-07-2022
+71,20-05-2024,Mobile,1,249.5,Credit Card,Refunded,UK,08-02-2024
+72,32-13-2022,Mobile,2,99.99,,Done,Canada,30-08-2021
+73,32-13-2022,Headphones,10,99.99,Cheque,Refunded,India,01-09-2023
+74,30-09-2023,Laptop,10,-100,,Pending,India,
+75,02-07-2022,Mobile,,ten,Debit Card,Cancelled,Canada,05-07-2022
+76,07-10-2022,Camera,1,ten,Cheque,Cancelled,UK,20-08-2023
+77,13-09-2021,Camera,,-100,,Refunded,USA,
+78,18-07-2020,Laptop,5,,Credit Card,Cancelled,USA,27-03-2020
+79,32-13-2022,Camera,4,,,Cancelled,Canada,
+80,09-10-2022,Laptop,five,99.99,Cheque,Cancelled,USA,25-09-2022
+81,23-06-2020,Headphones,1,249.5,Cheque,Refunded,USA,11-08-2025
+82,30-10-2022,Laptop,five,99.99,Debit Card,Refunded,Ind,22-03-2020
+83,09-05-2025,,2,-100,Credit Card,Completed,Ind,10-06-2022
+84,11-03-2025,Mobile,4,249.5,,Completed,Ind,
+85,05-04-2025,Mobile,4,249.5,UPI,Refunded,Canada,10-05-2025
+86,22-09-2024,Camera,2,249.5,Debit Card,Cancelled,Canada,09-04-2025
+87,29-07-2025,Camera,,-100,Cheque,Refunded,UK,29-06-2020
+88,18-06-2024,Camera,1,249.5,UPI,Done,UK,08-05-2022
+89,02-05-2024,Laptop,3,,Cash,Completed,UK,
+90,32-13-2022,Laptop,five,99.99,Debit Card,Completed,USA,
+91,04-08-2025,,,249.5,Cheque,Completed,Ind,22-04-2022
+92,29-02-2024,,3,99.99,Cheque,Pending,Australia,24-02-2022
+,12-07-2025,Camera,5,249.5,Credit Card,Pending,Ind,07-01-2023
+94,07-12-2021,Laptop,4,,Cash,Pending,Australia,13-07-2025
+95,04-06-2022,Camera,10,-100,Cheque,Pending,Canada,05-06-2023
+96,32-13-2022,,1,-100,Cheque,Completed,UK,07-01-2025
+97,15-01-2020,Mobile,3,249.5,Debit Card,Pending,UK,22-05-2024
+98,05-12-2024,Mobile,5,500,,Done,India,03-07-2022
+99,05-02-2024,Mobile,5,249.5,,Refunded,Ind,21-04-2023
+100,07-10-2020,,five,249.5,Credit Card,Cancelled,UK,23-07-2024
